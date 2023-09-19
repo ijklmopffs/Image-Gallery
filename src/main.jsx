@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-5cs0hy1wf8diredz.us.auth0.com"
       clientId="cUrXx3buaoWOt8D1wXGiLQTMOZSrIf3l"
       authorizationParams={{
-        redirect_uri: `${window.location.origin}/gallery`,
+        redirect_uri: `${window.location.origin}/gallery/`,
       }}
     >
       <App />
