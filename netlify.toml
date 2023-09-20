@@ -1,5 +1,5 @@
 [[redirects]]
 
-from = 'https://image-gallery-devsjs.netlify.app/'
-to = 'https://image-gallery-devsjs.netlify.app/gallery'
-status = 200
+from = '/'
+to = '/gallery'
+status = 301
